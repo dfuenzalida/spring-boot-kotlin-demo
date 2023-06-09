@@ -1,3 +1,3 @@
-INSERT INTO messages VALUES ('1001', 'Hello!');
-INSERT INTO messages VALUES ('1002', 'Bonjour!');
-INSERT INTO messages VALUES ('1003', 'Privet!');
+INSERT INTO messages (text) VALUES ('Hello!');
+INSERT INTO messages (text) VALUES ('Bonjour!');
+INSERT INTO messages (text) VALUES ('Privet!');
